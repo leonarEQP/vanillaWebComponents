@@ -3,7 +3,7 @@
 <h2>Directory :
 
 <h3>vanillaWebComponents<br>
-|-- hello-world.js<br>
-|-- task-manager.js<br>
-|-- user-card.js<br>
+|-- components/hello-world.js<br>
+|-- components/task-manager.js<br>
+|-- components/user-card.js<br>
 |-- index.html</h3>
